@@ -1,6 +1,6 @@
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-#include <Menu.hpp>
+#include <menu.hpp>
 
 void action1() {
   Serial.println("Aktion 1 ausgeführt!");
